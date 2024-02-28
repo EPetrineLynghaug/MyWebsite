@@ -1,0 +1,45 @@
+/*
+    Breakpoint Setting	For Device
+    max-width 320px	Smartwatches
+    max-width 420px	Smaller devices
+    max-width 600px	Phones
+    min-width 600px	Tablets and Large Phones
+    min-width 768px	Tablets
+    min-width 992px	Laptops and Desktops
+    min-width 1200px	Monitors, Desktops
+*/
+
+/* IMPORT CSS */
+@import url("./mobile.css");
+
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    width: 100%;
+    height: 200vh;
+    padding: 0; 
+    margin: 0;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;  
+  background: rgba(0, 0, 0, .5);
+}
+header ul {
+    list-style: none;
+    display: flex;
+}
+header ul li {
+    margin-left: 8px;
+} 
+header a {
+    text-decoration: none;
+    color: #fff;
+}
