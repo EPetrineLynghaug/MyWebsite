@@ -18,5 +18,38 @@
         background-size: cover;
         background-attachment: fixed;
     }
+
+    .card {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        /* height: 200px; */
+        padding: 32px 24px;
+        background: linear-gradient(
+            to top,
+            hsla(0, 0%, 100%, 1) 0%,
+            hsla(0, 0%, 100%, 0.8) 95%,
+            hsla(0, 0%, 100%, 0) 100%
+        );
+    }
+    .card .name {
+        padding-bottom: 3px;
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .card .title {
+        padding-bottom: 6px;
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+    .card .email {
+        text-decoration: none;
+        color: #26233a;
+    }
+    .card .about {
+        padding-top: 12px;
+    }
     
 }
