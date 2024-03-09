@@ -1,0 +1,56 @@
+/* Catppuccin Mocha: https://github.com/catppuccin/catppuccin */
+:root {
+    --color-rosewater:	#f5e0dc;
+    --color-flamingo:	#f2cdcd;
+    --color-pink:	    #f5c2e7;
+    --color-mauve:	    #cba6f7;
+    --color-red:	    #f38ba8;
+    --color-maroon:	    #eba0ac;
+    --color-peach:	    #fab387;
+    --color-yellow:	    #f9e2af;
+    --color-green:	    #a6e3a1;
+    --color-teal:	    #94e2d5;
+    --color-sky:	    #89dceb;
+    --color-sapphire:	#74c7ec;
+    --color-blue:	    #89b4fa;
+    --color-lavender:	#b4befe;
+    --color-text:	    #cdd6f4;
+    --color-subtext1:	#bac2de;
+    --color-subtext0:	#a6adc8;
+    --color-overlay2:	#9399b2;
+    --color-overlay1:	#7f849c;
+    --color-overlay0:	#6c7086;
+    --color-surface2:	#585b70;
+    --color-surface1:	#45475a;
+    --color-surface0:	#313244;
+    --color-base:	    #1e1e2e;
+    --color-mantle: 	#181825;
+    --color-crust:  	#11111b;
+
+    --hsla-rosewater:hsla(10,  56%, 91%, 1);
+	--hsla-flamingo: hsla(0,   59%, 88%, 1);
+	--hsla-pink:     hsla(316, 72%, 86%, 1);
+	--hsla-mauve:    hsla(267, 84%, 81%, 1);
+	--hsla-red:      hsla(343, 81%, 75%, 1);
+	--hsla-maroon:   hsla(350, 65%, 77%, 1);
+	--hsla-peach:    hsla(23,  92%, 75%, 1);
+	--hsla-yellow:   hsla(41,  86%, 83%, 1);
+	--hsla-green:    hsla(115, 54%, 76%, 1);
+	--hsla-teal:     hsla(170, 57%, 73%, 1);
+	--hsla-sky:      hsla(189, 71%, 73%, 1);
+	--hsla-sapphire: hsla(199, 76%, 69%, 1);
+	--hsla-blue:     hsla(217, 92%, 76%, 1);
+	--hsla-lavender: hsla(232, 97%, 85%, 1);
+	--hsla-text:     hsla(226, 64%, 88%, 1);
+	--hsla-subtext1: hsla(227, 35%, 80%, 1);
+	--hsla-subtext0: hsla(228, 24%, 72%, 1);
+	--hsla-overlay2: hsla(228, 17%, 64%, 1);
+	--hsla-overlay1: hsla(230, 13%, 55%, 1);
+	--hsla-overlay0: hsla(231, 11%, 47%, 1);
+	--hsla-surface2: hsla(233, 12%, 39%, 1);
+	--hsla-surface1: hsla(234, 13%, 31%, 1);
+	--hsla-surface0: hsla(237, 16%, 23%, 1);
+	--hsla-base:     hsla(240, 21%, 15%, 0.92);
+	--hsla-mantle:   hsla(240, 21%, 12%, 1);
+	--hsla-crust:    hsla(240, 23%, 9%,  1);
+}
