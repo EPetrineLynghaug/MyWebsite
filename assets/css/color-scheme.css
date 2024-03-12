@@ -41,15 +41,15 @@
 	--hsla-sapphire: hsla(199, 76%, 69%, 1);
 	--hsla-blue:     hsla(217, 92%, 76%, 1);
 	--hsla-lavender: hsla(232, 97%, 85%, 1);
-	--hsla-text:     hsla(226, 64%, 88%, 1);
+	--hsla-text:     hsla(226, 64%, 88%, 0.92);
 	--hsla-subtext1: hsla(227, 35%, 80%, 1);
 	--hsla-subtext0: hsla(228, 24%, 72%, 1);
 	--hsla-overlay2: hsla(228, 17%, 64%, 1);
 	--hsla-overlay1: hsla(230, 13%, 55%, 1);
-	--hsla-overlay0: hsla(231, 11%, 47%, 1);
+	--hsla-overlay0: hsla(231, 11%, 47%, 0.92);
 	--hsla-surface2: hsla(233, 12%, 39%, 1);
 	--hsla-surface1: hsla(234, 13%, 31%, 1);
-	--hsla-surface0: hsla(237, 16%, 23%, 1);
+	--hsla-surface0: hsla(237, 16%, 23%, 0.92);
 	--hsla-base:     hsla(240, 21%, 15%, 0.92);
 	--hsla-mantle:   hsla(240, 21%, 12%, 1);
 	--hsla-crust:    hsla(240, 23%, 9%,  1);
